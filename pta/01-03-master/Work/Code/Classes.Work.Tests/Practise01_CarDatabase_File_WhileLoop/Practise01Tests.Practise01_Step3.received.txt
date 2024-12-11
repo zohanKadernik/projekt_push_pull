@@ -1,0 +1,36 @@
+﻿Stored cars
+ skoda
+ thraktor
+ nakladak
+ porshe
+ Ferrari 550
+ Porsche 911
+Enter car name: 
+Car Ferrari 550 was stored 
+
+car databaze was closed 
+Stored cars
+ skoda
+ thraktor
+ nakladak
+ porshe
+ Ferrari 550
+ Porsche 911
+ Ferrari 550
+Enter car name: 
+Car  was stored 
+
+car databaze was closed 
+Stored cars
+ skoda
+ thraktor
+ nakladak
+ porshe
+ Ferrari 550
+ Porsche 911
+ Ferrari 550
+ 
+Enter car name: 
+Car Porsche 911 was stored 
+
+car databaze was closed 

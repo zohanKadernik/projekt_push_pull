@@ -1,0 +1,5 @@
+﻿Enter car name: 
+Car 'Ferrari 550' was stored
+Enter car name: 
+
+Car database closed

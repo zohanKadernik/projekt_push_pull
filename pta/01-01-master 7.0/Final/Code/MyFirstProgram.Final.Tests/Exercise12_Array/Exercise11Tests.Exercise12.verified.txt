@@ -1,0 +1,7 @@
+﻿
+Digging to array:
+Length of array: 6
+First word in array: Let
+Second word in array: the
+Last word in array: you
+All words in array: Let, the, force, be, with, you

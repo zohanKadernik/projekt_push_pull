@@ -1,0 +1,6 @@
+﻿Array:
+Length: 5
+First: text1
+Second: text2
+Last: text5
+All: text1, text2, text3, text4, text5

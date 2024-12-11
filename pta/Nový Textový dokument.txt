@@ -1,0 +1,121 @@
+        */
+        #endregion
+
+
+
+        WriteOddeleni();
+
+        WriteTextStarted();
+
+        WritePrikaz();
+        string uzivatel = ReadStringInput();
+
+        
+
+
+        if (uzivatel == "makej")
+        {
+            WritePocet();
+            int opakovani = ReadIntInput();
+
+            for (int i = 0; i < opakovani; i++)
+            {
+
+
+                WriteWord("i");
+                WriteSpace();
+                WriteWord("am");
+                WriteSpace();
+                WriteWord("doing");
+                WriteSpace();
+                WriteWord("work");
+                WriteNewLine();
+            }
+        }
+
+
+        else
+            {
+                WriteWord("i");
+                WriteSpace();
+                WriteWord("am");
+                WriteSpace();
+                WriteWord("not");
+                WriteSpace();
+                WriteWord("doing");
+                WriteSpace();
+                WriteWord("work");
+                WriteNewLine();
+            }
+       
+
+        WriteTextFinished();
+
+        WriteOddeleni();
+
+    }
+    private void WriteTextStarted()
+    {
+        WriteNewLine();
+        WriteWord("My");
+        WriteSpace();
+        WriteWord("fisrt");
+        WriteSpace();
+        WriteWord("program");
+        WriteSpace();
+        WriteWord("started");
+        WriteNewLine();
+    }
+
+
+
+    private void WriteTextFinished()
+    {
+        WriteNewLine();
+        WriteWord("My");
+        WriteSpace();
+        WriteWord("fisrt");
+        WriteSpace();
+        WriteWord("program");
+        WriteSpace();
+        WriteWord("finished");
+        WriteNewLine();
+    }
+
+
+
+
+    private void WriteOddeleni()
+    {
+        WriteWord("***********************");
+    }
+
+    private void WritePrikaz()
+    {
+        WriteWord("dej");
+        WriteSpace();
+        WriteWord("přikazt");
+        WriteSpace();
+        WriteWord("makej");
+        WriteWord("=");
+
+
+    }
+
+    private void WritePocet()
+    {
+        WriteWord("napiš");
+        WriteSpace();
+        WriteWord("počet");
+        WriteSpace();
+        WriteWord("opakování");
+        WriteWord("=");
+    }
+        
+
+
+
+
+ 
+    
+}

@@ -1,0 +1,6 @@
+﻿Welcome in 'Average computer' application
+
+Enter space separated numbers: 
+Average of numbers is: 4.25
+
+Application 'Average computer' finished

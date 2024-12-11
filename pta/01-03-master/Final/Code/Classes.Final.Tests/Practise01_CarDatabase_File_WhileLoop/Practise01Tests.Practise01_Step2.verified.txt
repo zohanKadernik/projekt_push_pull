@@ -1,0 +1,7 @@
+﻿Enter car name: 
+Car 'Porsche 911' was stored
+Enter car name: 
+Car 'McLaren P1' was stored
+Enter car name: 
+
+Car database closed

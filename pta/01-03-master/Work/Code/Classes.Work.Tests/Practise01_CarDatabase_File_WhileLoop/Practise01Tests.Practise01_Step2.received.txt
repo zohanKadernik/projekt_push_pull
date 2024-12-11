@@ -1,0 +1,10 @@
+﻿Stored cars
+ skoda
+ thraktor
+ nakladak
+ porshe
+ Ferrari 550
+Enter car name: 
+Car Porsche 911 was stored 
+
+car databaze was closed 

@@ -1,0 +1,14 @@
+﻿Welcome in 'Word randomizer' application
+Enter comma separated words: 
+Starting word randomizer, hit key [enter]...
+two
+four
+three
+one
+four
+one
+two
+one
+three
+two
+Application 'Word randomizer' finished

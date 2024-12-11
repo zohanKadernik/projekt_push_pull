@@ -1,0 +1,9 @@
+﻿Stored cars:
+ Ferrari 550
+ Ferrari 550
+ Ferrari 550
+ Ferrari 550
+Enter car name: 
+Car Ferrari 550 was stored 
+
+Car database closed 
